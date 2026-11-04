@@ -14,13 +14,19 @@
 Clasificación IT 
 
 Software de gestión de stock 
+
 Página web 
+
 Gestión de pedidos o a para llevar 
 
 Clasificación OT 
+
 Carta QR 
+
 VLAN OT de cocina 
+
 VLAN Operativa 
+
 
 ## Punto de dolor (#3)
 
