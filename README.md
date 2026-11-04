@@ -12,7 +12,6 @@
 | 🧭 **Scrum Master** | Juan |
 | 🛠️ **Equipo de desarrollo** | Gorka, Iván |
 
-## Situación actual: arquitectura IT/OT (#2) + plano de la sala (#5)
 
 ## 🏗️ Situación actual: arquitectura IT/OT (#2) + plano de la sala (#5)
 
