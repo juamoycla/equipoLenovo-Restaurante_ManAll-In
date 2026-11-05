@@ -85,3 +85,27 @@ Los datos que más necesarios son y más vamos a manipular son acerca del invent
 - Cuanto se ha gastado en cada día 
 También contamos con datos acerca de la sostenibilidad del proyecto: 
 - Gasto energético y de agua 
+
+# Dos usos de IA para Man'All-In
+
+## 1. Asistente de recomendación de platos
+
+**Idea:** Cuando el cliente no sepa qué elegir de la carta, la IA le hará unas preguntas breves sobre:
+
+- Qué ha comido en el día de hoy.
+- Qué alimentos no le gustan.
+
+Con esas respuestas, la IA le propondrá qué plato o platos de la carta elegir.
+
+## 2. Control inteligente del stock de la nevera
+
+**Idea:** La IA detecta qué alimentos se meten y se sacan de la nevera. Si un alimento se saca y no vuelve a meterse, o si detecta que queda poco, salta una alerta para reponerlo o comprar más porque se está acabando.
+
+---
+
+## Datos que se necesitan
+
+| Propuesta | Dato o recurso necesario |
+|---|---|
+| **1. Recomendación de platos** | Hacer preguntas al cliente. |
+| **2. Control de la nevera** | Una nevera inteligente **o** una cámara situada encima de la nevera, colocada de modo que tenga buena visibilidad. |
