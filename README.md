@@ -39,6 +39,49 @@
 
 ## Tecnologías habilitadoras: IoT, 5G, Blockchain, Robótica, RV/RA
 
+ ## 1. Qué es y qué problema resuelve 
+Es una tecnología que permite una rápida comunicación atraves de las tecnologías dentro del local 
+ 
+## 2. Mejora que aporta 
+Mejora muchísimo la experiencia del cliente y ayuda a la mejor comunicación entre tecnológias del local consumes 
+ 
+## 3. ¿IT, OT o ambos? ¿Por qué? 
+Es una mejora tanto IT como OT ya que si, mejora la conectividad, pero mejora todas las maquinarias del local 
+
+ 
+## 4. Riesgo o límite 
+El coste no es elevado, el de un router y una suscripción a una compañía de teléfono 
+
+BLOKCHAIN
+## 1. Qué es y qué problema resuelve 
+Permite de forma automatizada llevar registro del inventario del local sin necesidad de contarlo a mano 
+
+## 2. Mejora que aporta 
+Mejora drásticamente la eficiencia a la hora de hacer inventario 
+
+## 3. Nuevo servicio o mercado que abre 
+Hace que sea más fácil saber cuándo hacer un pedido y que productos pedir 
+ 
+## 4. ¿IT, OT o ambos? ¿Por qué? 
+Es una mejora IT ya que se basa en controlador los datos de la empresa 
+ 
+## 5. Riesgo o límite 
+El coste no es bajo, ya que hay que digitalizar casi toda la forma de trabajar del restaurante y hay que explicar a los trabajadores como funciona
+
 ## Cloud: dónde vive el sistema (#14)
 
 ## IA y mapa de datos (#12, #13)
+Mapa Datos restaurante Man-All-In: 
+Un mapa de datos es saber de dónde vienen los datos de una empresa y en cuales la empresa ha de ir con cuidado para cumplir el RGPD
+En nuestro caso tenemos varios datos que tenemos sobre nuestros clientes sería solo en caso de que hagan una reserva: 
+- Nombre 
+- Correo Electrónico 
+- Número de teléfono 
+Los datos que más necesarios son y más vamos a manipular son acerca del inventario. Aquí contamos con todo lo que necesitamos para poder tenerlo automatizado: 
+- Cuantos productos hay 
+- Cuanto queda de cada producto 
+- Numero de los proveedores 
+- Cuanto necesitamos de cada producto para cada plato 
+- Cuanto se ha gastado en cada día 
+También contamos con datos acerca de la sostenibilidad del proyecto: 
+- Gasto energético y de agua 
