@@ -1,6 +1,10 @@
-## Descripción de la pyme
+# Descripción de la pyme
 
+## 🍽️ Sobre ManAll-In
 
+**ManAll-In** es una pyme de hostelería: un restaurante con servicio en sala, reservas y comida para llevar. Hoy trabaja de forma casi manual (agenda, boli y comandas que se cantan en cocina), lo que hace los trámites lentos y genera gastos ocultos.
+
+🎯 **Objetivo:** digitalizar el negocio con carta QR, pedidos online, gestión de stock e IoT en cocina para atender mejor y reducir costes.
 
 ## Equipo y roles (PO, Scrum Master, Equipo de Desarrollo)
 
