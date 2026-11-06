@@ -68,7 +68,46 @@ Es una mejora IT ya que se basa en controlador los datos de la empresa
 ## 5. Riesgo o límite 
 El coste no es bajo, ya que hay que digitalizar casi toda la forma de trabajar del restaurante y hay que explicar a los trabajadores como funciona
 
-## Cloud: dónde vive el sistema (#14)
+## ☁️ Cloud: dónde vive el sistema (#14)
+
+### 🎯 Decisión inicial: modelo **SaaS** (Software as a Service)
+
+En la primera fase, el sistema de ManAll-In funcionará con **soluciones SaaS** en la nube: herramientas ya hechas que se contratan por suscripción y se usan desde el navegador o una app, sin montar ni mantener servidores propios.
+
+### 🤔 ¿Por qué SaaS y no IaaS / PaaS?
+
+| Criterio | ☁️ SaaS | 🧱 PaaS | 🖥️ IaaS |
+|---|---|---|---|
+| 💸 **Coste inicial** | Bajo (cuota mensual) | Medio | Alto |
+| 🛠️ **Mantenimiento** | Lo hace el proveedor | Compartido | Lo hacemos nosotros |
+| ⏱️ **Puesta en marcha** | Días | Semanas | Meses |
+| 👨‍💻 **Conocimientos técnicos** | Mínimos | Programación | Sistemas y redes |
+| 📈 **Escalabilidad** | Cambiar de plan | Alta | Total |
+
+### ✅ Justificación
+
+- 🍽️ **Somos un restaurante, no una empresa de software.** El objetivo es servir mejor, no administrar servidores.
+- 💸 **Atacamos los gastos ocultos (#3).** Pagamos una cuota fija y predecible, sin comprar hardware ni contratar a nadie de sistemas.
+- ⚡ **Resultados inmediatos.** El TPV, la carta QR, los pedidos para llevar y el stock pueden funcionar en pocos días y sustituir enseguida la agenda y el boli.
+- 👩‍🍳 **Fácil para el personal.** Son interfaces sencillas que ya se usan en otros restaurantes, así que hace falta poca formación.
+- 🔒 **Seguridad y copias de seguridad incluidas.** El proveedor protege los datos de los clientes (reservas: nombre, correo y teléfono) y cumple el RGPD.
+- 📱 **Acceso desde cualquier sitio.** Sala, cocina y gerencia ven la misma información en tiempo real desde la tablet o el móvil.
+
+### 🧩 Ejemplos de SaaS a usar
+
+- 🧾 **TPV y comandas:** pedidos que llegan directamente a la pantalla de cocina, sin tener que cantarlos.
+- 📱 **Carta QR y pedidos online:** para llevar y pedidos desde la mesa.
+- 📦 **Gestión de stock:** inventario e integración con proveedores.
+- 📅 **Reservas:** gestión de mesas y clientes.
+- 🌐 **Web:** creador de webs con hosting incluido.
+
+### ⚠️ Riesgos y cómo los mitigamos
+
+| Riesgo | Mitigación |
+|---|---|
+| 🔗 Dependencia del proveedor (*vendor lock-in*) | Elegir herramientas que permitan exportar los datos |
+| 📶 Caída de Internet | Router 4G/5G de respaldo (ver IoT/5G) |
+| 💰 Coste acumulado de suscripciones | Revisar los planes cada 6 meses |
 
 ## IA y mapa de datos (#12, #13)
 Mapa Datos restaurante Man-All-In: 
